@@ -15,6 +15,6 @@
 
 # Configuration for Mono repositories
 ---
-repository_root: "https://ci-labs-buildpack-downloads.s3.amazonaws.com/mono/lucid/x86_64"
-version: 3.4.0_net45
+#repository_root: "https://ci-labs-buildpack-downloads.s3.amazonaws.com/mono/lucid/x86_64"
+#version: 3.4.0_net45
 
